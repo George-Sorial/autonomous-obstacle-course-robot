@@ -1,4 +1,4 @@
-//Version by George A A Sorial (240335920) 
+//Version by George A A Sorial  
 // 8/12/2025 18:07 
 
 //Define L298N Dual H-Bridge Motor Controller Pins
