@@ -83,10 +83,10 @@ $$
 d = \frac{t \times v_{\text{sound}}}{2}
 $$
 
-Using the speed of sound at standard sea-level conditions (343 m/s, or 0.0343 cm/\mu s), the code scales `pulseIn()` timing data using the calibrated constant below:
+Using the speed of sound at standard sea-level conditions (343 m/s, or 0.0343 cm/μs), the code scales `pulseIn()` timing data using the calibrated constant below:
 
 $$
-\text{Distance (cm)} = \text{Time (\mu s)} \times 0.01657
+\text{Distance (cm)} = \text{Time} \, (\mu s) \times 0.01657
 $$
 
 #### `String read_sensor_values()`
